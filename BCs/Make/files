@@ -1,0 +1,6 @@
+RNSmfvSlip/RNSmfvSlipFvPatchFields.C
+U/RNSrSlipUFvPatchVectorField.C
+T/RNSsmoluchowskiJumpTFvPatchScalarField.C
+rho/RNSfixedRhoFvPatchScalarField.C
+
+LIB = $(FOAM_USER_LIBBIN)/libRNSrFoam
